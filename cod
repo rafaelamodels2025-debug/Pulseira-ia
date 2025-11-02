@@ -1,0 +1,28 @@
+    "id": "github-mcp-server",
+    "name": "GitHub",
+    "description": "Access GitHub repositories, issues, and pull requests through secure API integration.",
+    "version": "1.0.0",
+    "x-ms-icon": "https://avatars.githubusercontent.com/github?s=64",
+    "x-ms-partner": true,
+    "remotes": [
+      {
+        "transport_type": "sse",
+        "url": "https://api.githubcopilot.com/mcp"
+      }
+    ],
+    "repository": {
+      "url": "https://github.com/github/github-mcp-server",
+      "source": "partner",
+      "id": ""
+    }
+  },
+  {
+    "id": "msdocs-mcp-server",
+    "name": "Microsoft docs",
+    "description": "AI assistant with real-time access to official Microsoft documentation.",
+    "version": "1.0.0",
+    "x-ms-icon": "https://avatars.githubusercontent.com/microsoft?s=64",https://avatars.githubusercontent.com/github?s=64https://github.com/github/github-mcp-serverhttps://api.githubcopilot.com/mcphttps://avatars.githubusercontent.com/microsoft?s=64Which Vertex AI model can be used to identify customer clusters or segments?
+Text-bison (PaLM 2 for Text)
+Multmodalembedding (Embeddings for Multimodal)
+K-means clustering model
+Chat-bison (PaLM 2 for Chat
